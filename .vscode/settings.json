@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "syscall_hook.h": "c",
+    "config.h": "c",
+    "utils.h": "c",
+    "root.h": "c"
+  }
+}
